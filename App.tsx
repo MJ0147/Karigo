@@ -1,0 +1,1 @@
+// This file is deprecated. Please refer to RiderApp.tsx and Main.tsx
